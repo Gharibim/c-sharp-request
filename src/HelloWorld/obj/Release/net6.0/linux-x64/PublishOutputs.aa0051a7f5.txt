@@ -1,0 +1,9 @@
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.deps.json
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.runtimeconfig.json
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/HelloWorld.pdb
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.CloudWatchEvents.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/publish/RestSharp.dll

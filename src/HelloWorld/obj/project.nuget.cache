@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oild78jjXjxtYEf4X4jeysNq+bf/zmoWKu4IYgXQQYYwYqcQJwZ+z2aeUuyDJqBMJygWsqF8GxXFFIHULK97MQ==",
+  "success": true,
+  "projectFilePath": "/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "/home/max/.nuget/packages/amazon.lambda.apigatewayevents/2.4.0/amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "/home/max/.nuget/packages/amazon.lambda.cloudwatchevents/4.0.0/amazon.lambda.cloudwatchevents.4.0.0.nupkg.sha512",
+    "/home/max/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/home/max/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.2.0/amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "/home/max/.nuget/packages/restsharp/108.0.3/restsharp.108.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

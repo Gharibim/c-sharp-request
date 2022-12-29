@@ -1,0 +1,14 @@
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.deps.json
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.runtimeconfig.json
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.pdb
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.csproj.AssemblyReference.cache
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.AssemblyInfoInputs.cache
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.AssemblyInfo.cs
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.csproj.CoreCompileInputs.cache
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/refint/HelloWorld.dll
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.pdb
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.genruntimeconfig.cache
+/home/max/Desktop/crawler/hello-world-lambda-dotnet/src/HelloWorld/obj/Release/net6.0/linux-x64/ref/HelloWorld.dll

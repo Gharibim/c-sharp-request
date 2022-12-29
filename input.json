@@ -1,0 +1,15 @@
+{
+  "version": "0",
+  "id": "88c099aa-4cac-b795-7e45-df84bfdd5480",
+  "detail-type": "fff",
+  "source": "hhh",
+  "account": "563519458465",
+  "time": "2022-11-03T14:13:07Z",
+  "region": "us-east-1",
+  "resources": [],
+  "detail": {
+    "address": "0x123455555555555",
+    "abi": "something goes here",
+    "contractType": "ERC721"
+  }
+}
